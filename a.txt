@@ -8,4 +8,5 @@ kim
 abc
 aaa
 123
-kikiki
+내가 리더
+superFeature
